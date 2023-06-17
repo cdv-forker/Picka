@@ -21,12 +21,13 @@
 |9. |Frutti di Mare| sos pomidorowy, ser mozzarella, owoce morza|35|
 
 ## makarony
-1. Spaghetti Bolognese [makaron spaghetti, sos mięsny, ser parmezan]
-2. Penne Arrabiata [makaron penne, sos pomidorowy z papryczkami chili, czosnek, oliwa, natka pietruszki]
-3. Lasagne [makaron lasagne, sos mięsny, ser mozzarella, sos beszamelowy]
-4. Fettuccine Alfredo [makaron fettuccine, sos śmietanowy z masłem i serem parmezan, szczypta gałki muszkatołowej]
-5. Ravioli z nadzieniem szpinakowym [makaron ravioli, nadzienie ze szpinaku i sera ricotta, sos pomidorowy, natka pietruszki]
-
+||PASTA|SKŁADNIKI|CENA|
+|---|------|-----------------------------------------------|---|
+|1.|Spaghetti Bolognese| makaron spaghetti, sos, parmezan|25|
+|2.|Penne Arrabiata| makaron penne, sos pomidorowy z papryczkami chili, czosnek, oliwa, natka pietruszki|29|
+|3.|Lasagne|m akaron lasagne, mozzarella, sos beszamelowy|45|
+|4.|Fettuccine Alfredo|m akaron fettuccine, sos śmietanowy z masłem i parmezanem, gałka muszkatołowa|30|
+|5.|Ravioli z nadzieniem szpinakowym| makaron ravioli, nadzienie ze szpinaku i sera ricotta, sos pomidorowy, natka pietruszki]|30|
 ## napoje
 - woda
 - coca cola
