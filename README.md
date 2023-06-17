@@ -1,2 +1,2 @@
 # Picka
-This file belongs to vege branch.
+Strona pizzerii Picka
