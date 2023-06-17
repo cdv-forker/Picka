@@ -1,2 +1,2 @@
 # Picka
-Dokumenty i pliki do utworzenia Picki
+This file belongs to vege branch.
