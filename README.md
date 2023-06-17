@@ -1,2 +1,2 @@
 # Picka
-This file sits on main branch. 
+Strona pizzerii Picka
