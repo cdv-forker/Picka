@@ -20,6 +20,13 @@
 |8. |Quattro Stagioni| sos pomidorowy, ser mozzarella, szynka, pieczarki, papryka, oliwki, karczochy|29|
 |9. |Frutti di Mare| sos pomidorowy, ser mozzarella, owoce morza|35|
 
+## vege pizza
+||VEGE PIZZA|SKŁADNIKI|CENA|
+|---|------|-----------------------------------------------|---|
+|1. |Margherita| sos pomidorowy, ser mozzarella, bazylia|25|
+|2. |Funghi| sos pomidorowy, ser mozzarella, pieczarki|20|
+|3. |Primavera| sos pomidorowy, ser mozzarella, papryka, cukinia, pomidory, cebula, czarne oliwki|32|
+
 ## makarony
 ||PASTA|SKŁADNIKI|CENA|
 |---|----|-------------------------------------|---|
