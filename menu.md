@@ -1,19 +1,24 @@
+<img src = IMG/picka2.jpg width = 300>
+
 # Menu
 
 ## startery
 1. Focaccia
 2. Antipasti
 
+
 ## pizza
-1. Margherita [sos pomidorowy, ser mozzarella, bazylia]
-2. Pepperoni [sos pomidorowy, ser mozzarella, pepperoni]
-3. Capricciosa [sos pomidorowy, ser mozzarella, szynka, pieczarki, oliwki]
-4. Prosciutto e Funghi [sos pomidorowy, ser mozzarella, szynka, pieczarki]
-5. Quattro Formaggi [sos pomidorowy, ser mozzarella, ser pleśniowy, ser żółty, ser parmezan]
-6. Diavola [sos pomidorowy, ser mozzarella, salami, papryczki chili]
-7. Vegetariana [sos pomidorowy, ser mozzarella, papryka, cebula, szpinak, pomidory]
-8. Quattro Stagioni [sos pomidorowy, ser mozzarella, szynka, pieczarki, papryka, oliwki, karczochy]
-9. Frutti di Mare [sos pomidorowy, ser mozzarella, owoce morza (np. krewetki, małże, kalmary)]
+||PIZZA|SKŁADNIKI|CENA|
+|---|------|-----------------------------------------------|---|
+|1. |Margherita| sos pomidorowy, ser mozzarella, bazylia|25|
+|2. |Pepperoni| sos pomidorowy, ser mozzarella, pepperoni|30|
+|3. |Capricciosa| sos pomidorowy, ser mozzarella, szynka, pieczarki, oliwki|30|
+|4. |Prosciutto e Funghi| sos pomidorowy, ser mozzarella, szynka, pieczarki|30|
+|5. |Quattro Formaggi| sos pomidorowy, ser mozzarella, ser pleśniowy, ser żółty, ser parmezan|30|
+|6. |Diavola| sos pomidorowy, ser mozzarella, salami, papryczki chili|30|
+|7. |Vegetariana| sos pomidorowy, ser mozzarella, papryka, cebula, szpinak, pomidory|28|
+|8. |Quattro Stagioni| sos pomidorowy, ser mozzarella, szynka, pieczarki, papryka, oliwki, karczochy|29|
+|9. |Frutti di Mare| sos pomidorowy, ser mozzarella, owoce morza|35|
 
 ## makarony
 1. Spaghetti Bolognese [makaron spaghetti, sos mięsny, ser parmezan]
