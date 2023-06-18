@@ -1,4 +1,4 @@
 # Zespół
 
-##Pizzaiolo Joanka
-##Pizzaiolo Janek
+## Pizzaiolo Joanka
+## Pizzaiolo Janek
