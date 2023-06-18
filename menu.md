@@ -5,6 +5,7 @@
 ## startery
 1. Focaccia
 2. Antipasti
+3. Antipasti vege
 
 
 ## pizza
